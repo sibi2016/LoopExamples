@@ -13,7 +13,5 @@ public class FibonacciSequence {
 			n2 = nTemp;
 		}
 	}
-
-	
 }
 
